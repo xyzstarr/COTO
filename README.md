@@ -1,7 +1,7 @@
 # **Business Requirements Specification: COTO**
 
 ## **Project Name:** Survey Data Management System
-
+## **Business Requirement Specification for TMH 18 Road Asset Data Electronic Exchange Formats**
 #### **Document Version:** 1.0
 
 #### **Date:** 18 April 2024
@@ -85,8 +85,6 @@
 ## 
 
 **1. Introduction**
-
-# **Business Requirement Specification for TMH 18 Road Asset Data Electronic Exchange Formats**
 
 1. **File Format and Naming Convention**
 
